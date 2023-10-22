@@ -1,7 +1,9 @@
 # ML_supervised_classification_KNN_algorithm
+
 Applying KNN classification algorithm for predicting if a user is a potential buyer
 
 #Dependencies Python 3.11.4.0 Jupyter Notebook
+
 1.importing all required libraries
 
 2.Loading the dataset
